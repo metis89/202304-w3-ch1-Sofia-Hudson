@@ -1,4 +1,4 @@
-import "./style.css";
+import "./styles.css";
 import { createCharacters } from "./createCharacters.ts";
 
 const charactersContainer = createCharacters();
